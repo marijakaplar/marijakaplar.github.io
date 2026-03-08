@@ -1,0 +1,22 @@
+title: Marija Kaplar, PhD
+email: marija.kaplar@uns.ac.rs
+description: >-
+  Research Associate | Mathematics Education & AI-supported Learning
+baseurl: ""
+url: ""
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+header_pages:
+  - about.markdown
+  - research.markdown
+  - publications.markdown
+  - teaching.markdown
+  - cv.markdown
+  - contact.markdown
+
+google_analytics: G-7SPLKE1Z2H

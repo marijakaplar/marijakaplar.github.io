@@ -1,0 +1,21 @@
+---
+---
+
+@import 'minima';
+
+.post-content p {
+    text-align: justify;
+    hyphens: auto;
+}
+
+.wrapper {
+    margin: 0 auto;
+
+    @media (min-width: 576px) {
+        max-width: 80%;
+    }
+
+    @media (min-width: 768px) {
+        max-width: 50%;
+    }
+}
