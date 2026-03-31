@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+### 2026
+
+1. Vučić, M., Lužanin, Z. & Kaplar, M. (2026). The Intangible Nature of Actual Infinity: A Study of Misconceptions Among Engineering Students. *Int. J. Res. Undergrad. Math. Ed.* (2026). DOI: [10.1007/s40753-026-00302-z](https://doi.org/10.1007/s40753-026-00302-z) **(M21)**
+
 ### 2025
 
 1. Kaplar, M., & Stevanović, A. (2025, September 25–26). Probabilistic reasoning, statistical attitudes, and AI's role in analyzing students' explanations. In *Proceedings of the 16th International Conference on eLearning (eLearning 2025)* (pp. 291-307). Belgrade, Serbia: Metropolitan University. ISBN: 978-86-89755-37-4. DOI: [10.46793/eLearning2025.291K](https://doi.org/10.46793/eLearning2025.291K) **(M33)**

@@ -3,7 +3,11 @@ layout: page
 title: Home
 ---
 
+<img src="/IMG_2320.jpeg" alt="Marija Kaplar" width="200" style="float: right; margin-top: -60px; margin-left: 20px; border-radius: 8px;">
+
 ## Marija Kaplar, PhD
+
+<div style="clear: both;"></div>
 
 **Research Associate \| Mathematics Education & AI-supported Learning**
 

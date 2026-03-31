@@ -8,6 +8,8 @@ permalink: /research/
 
 My current research focuses on the design, development, and evaluation of AI-enabled learning environments, where LLMs are used within controlled, pedagogically grounded interaction protocols rather than as generic chat interfaces.
 
+You can check out SPARK-AI at: [https://www.spark-tutor.com](https://www.spark-tutor.com)
+
 ### 1) Governed LLM-based learning environments: SPARK_AI
 
 A major strand of my work investigates how to design learning applications that use existing LLMs while preventing the "instant-answer" pattern typical of standard chat interactions. The goal is to create an environment that supports learning as a process — guiding students through reasoning and reflection rather than skipping steps.
@@ -29,6 +31,18 @@ Finally, I have initiated work on using LLMs to support research methodology, in
 ---
 
 Further below, you can find highlights from my previous research.
+
+---
+
+## The Intangible Nature of Actual Infinity: A Study of Misconceptions Among Engineering Students
+
+This study examines engineering students' misconceptions about actual infinity. The findings show that, despite prior mathematical education, many students continue to face substantial conceptual difficulties. Importantly, these difficulties are often accompanied by strong confidence in incorrect answers, pointing not only to misunderstanding but also to students' limited awareness of their own misconceptions.
+
+![Actual infinity misconceptions figure](/assets/images/beskonacnost.png)
+
+*Figure from our paper published in the International Journal of Research in Undergraduate Mathematics Education.*
+
+Read more: [The Intangible Nature of Actual Infinity: A Study of Misconceptions Among Engineering Students](https://link.springer.com/article/10.1007/s40753-026-00302-z)
 
 ---
 
@@ -64,6 +78,10 @@ Read more: [Simpson's Paradox in Mathematics Grading](https://doiserbia.nb.rs/im
 
 In this study, we designed and developed the Interactive Learning Materials Triangle (iLMT) — a digital, highly interactive version of standard Serbian school materials that provides immediate feedback during learning and then rigorously evaluated its educational impact. We conducted a large-scale classroom experiment with 633 sixth-grade students and 13 mathematics teachers, comparing iLMT-supported learning with traditional materials. Drawing on Lithner's framework, we examined not only whether students performed better, but which types of mathematical reasoning benefited most — from highly related, routine tasks to low-relatedness tasks requiring deeper, non-routine thinking. The findings reveal a nuanced pattern: iLMT significantly improved performance and retention for several task types where feedback and structured interactivity can scaffold reasoning, while globally low-relatedness tasks remained challenging even with carefully engineered digital support.
 
+![Actual ggb_1 figure](/assets/images/ggb_1.png)
+
+*Figure from our paper published in the International Journal of Science and Mathematics Education.*
+
 Read more: [The Influence of Interactive Learning Materials](https://link.springer.com/article/10.1007/s10763-021-10151-8)
 
 ---
@@ -72,6 +90,13 @@ Read more: [The Influence of Interactive Learning Materials](https://link.spring
 
 In this study, we designed and evaluated an interactive digital mathematics textbook (e-textbook) that integrates GeoGebra applets with modern web technologies to provide high interactivity and immediate feedback during learning. The e-textbook was engineered around structured interaction loops: students manipulate mathematical representations, observe consequences in real time, and refine their reasoning through guided exploration. Students who used the interactive e-textbook reported that the applets and the new format motivated them to learn more both in school and at home.
 
+
+![Actual ggb2_2 figure](/assets/images/ggb2_2.png)
+![Actual ggb2_1 figure](/assets/images/ggb2_1.png)
+
+*Figure from our paper published in the Interactive Learning Environments.*
+
+
 Read more: [Examining the effects of GeoGebra applets](https://www.tandfonline.com/doi/full/10.1080/10494820.2017.1337037)
 
 ---
@@ -79,5 +104,9 @@ Read more: [Examining the effects of GeoGebra applets](https://www.tandfonline.c
 ## Undergraduate STEM and Non-STEM Students' Interpretation of Mean in an Infographic
 
 Do students really understand statistical infographics designed for the general public, or do they fall into common misconceptions? We examined how STEM and non-STEM students from Serbia and Kent State University (USA) interpreted official infographics published by the Statistical Office of the Republic of Serbia. This cross-cultural study revealed that both STEM and non-STEM students often misinterpret the basic concept of the mean when it is presented visually.
+
+![Actual image3 figure](/assets/images/image3.png)
+
+*Figure from our paper published in the Journal of Baltic Science Education.*
 
 Read more: [Undergraduate STEM and non-STEM students' interpretation of mean](http://www.scientiasocialis.lt/jbse/?q=node/1204)
